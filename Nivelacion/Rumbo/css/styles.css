@@ -1,0 +1,120 @@
+.logoP{
+    width: 150px;
+}
+.card{
+    padding: 1px;
+    width: 100%;
+    border: 0;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    margin: 0 auto;
+    padding: 0px 0px;
+    font-size: 15px;
+}
+
+h1{
+    text-align: center;
+}
+
+.card-body{
+    padding: 20px; 
+}
+
+
+
+
+body{
+    padding: 0;
+    position: relative;
+    background-size: cover;
+}
+
+.rumbo{
+    color: yellow;
+}
+.bom .boton1{
+    margin-left: 150px;
+    
+}
+
+.imagen{
+    background: url("../img/bg-header.png");
+    padding: 350px;
+    background-size: cover;
+
+}
+
+.mitad{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: yellow;
+    font-size: 40px;
+}
+
+#destinos2{
+    background-image: url("../img/bg-destinos.png");
+    padding-top: 40px;
+
+}
+
+#destinos2 .col{
+    padding-inline: 400px;
+}
+
+#destinos2 .card{
+    background: none;
+    color: #ffffff;
+}
+
+.destinos{
+    color: yellow;
+    padding: 80px;
+}
+
+
+#contacto3 .form-floating{
+    width: 64%;
+    padding-left: 220px;
+    display: flex;
+}
+
+#contacto3 .text{
+    padding-left: 220px;
+}
+
+#contacto3{
+    background: yellow;
+    padding: 40px;
+}
+
+#contacto3 .text{
+    padding-bottom: 32px;
+}
+
+button{
+    background-color: rgba(255, 221, 0, 0.711);   
+    margin-left: 400px;
+    font-size: 30px;
+    border-radius: 19px;
+    border: 0;
+    color: #ffffff;
+    width: 10%;
+}
+
+#ultimo{
+    background: #000000;
+    padding: 20px;
+}
+
+#ultimo p{
+    color: #ffffff;
+    padding-top: 40px;
+}
